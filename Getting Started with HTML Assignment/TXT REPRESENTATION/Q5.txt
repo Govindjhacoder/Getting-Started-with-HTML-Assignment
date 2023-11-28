@@ -1,0 +1,7 @@
+Q5. what is  Doctype deceleration in HTML?
+
+
+Ans. The Doctype declaration in HTML  mostly used in a document. It helps us to render the webpage  correctly  by indicating the rules  should be applied. Doctype declaration  placed at the begnigng  of HTML documents before any tags used  
+For example = <!DOCTYPE html>
+Rest of HTML document return after that. In that example <!DOCTYPE html>
+Indicate that document return in HTML5.

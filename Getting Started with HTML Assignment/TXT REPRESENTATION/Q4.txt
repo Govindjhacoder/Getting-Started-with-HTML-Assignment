@@ -1,0 +1,14 @@
+Q4. Write a short note on tag and element with an example?
+
+
+
+
+Ans. In the HTML  a tag is keyword or alphabet that surrounded by angles brackets( <,>,!)   that defines an element on webpage  an element as opening and closing tags . Tags are used for formatting content on webpage. 
+
+
+Example = <h1> this is paragraph element </h1>
+
+
+<h1> - opening tag.
+</h1> - closing tag.
+this is paragraph element ( content). 
